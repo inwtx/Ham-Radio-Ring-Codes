@@ -8,8 +8,7 @@ This project contains four cell phone ring codes designed for use by ham radio o
 4. SMS ring code: name: smsmorsering1.wav
 
 To download: 
-1. Click on 'Go to file' button above.
-2. Click on the ring tone you want.
-3. Click the Download button.
+1. Click on the .wav file above you want.
+2. Click the Download button.
 
 73s
